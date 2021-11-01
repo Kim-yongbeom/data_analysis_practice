@@ -21,3 +21,6 @@
 
 - Numpy 쓰는 이유
 <img width="787" alt="스크린샷 2021-11-01 오전 11 50 52" src="https://user-images.githubusercontent.com/89058117/139614994-1ce8cd74-2b9b-43c6-b2ee-eb3bb1f5cea9.png">
+
+- Numpy 함수
+<img width="787" alt="스크린샷 2021-11-01 오전 11 53 40" src="https://user-images.githubusercontent.com/89058117/139615280-de73b2bb-f40b-427e-b9f4-582ac5418510.png">
