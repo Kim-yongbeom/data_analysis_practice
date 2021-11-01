@@ -12,3 +12,5 @@
   - 2. 새 폴더 열기 -> 이동 -> 폴더이동 /usr/local/bin 폴더로 이동 
   - 3. webdriver 파일을 bin 폴더로 이동
 
+### 3. 빅데이터 분석(numpy, pandas)
+<img width="787" alt="스크린샷 2021-11-01 오전 9 50 51" src="https://user-images.githubusercontent.com/89058117/139607690-4f0ce5d8-c4c8-4fa9-8b5a-8ef10e90d507.png">
