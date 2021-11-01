@@ -4,7 +4,7 @@
 
 ### 2. 파이썬 크롤링
 
-- 크롬으로 자동화된 테스트 소프트웨어로 접속하기
+- 동적 크롤링 하는법
 - https://chromedriver.chromium.org/downloads
 - 자기 크롬 버전에 맞춰서 다운받기
 - MAC은 경로 설정 따로 해줘야함
